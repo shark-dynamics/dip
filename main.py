@@ -16,7 +16,7 @@ import enhance.border as border
 if __name__ == '__main__':
 
     # noise.noise_test()
-    se.add_meat_test()
+    # se.add_meat_test()
     # gm.inverse_test()
     # gm.segment_enhance_test()
     # gm.log_enhance_test()
@@ -24,7 +24,7 @@ if __name__ == '__main__':
     # gm.gray_cut_test()
     # gm.threshold_cut_test()
     # gm.bitmap_cut_test()
-    # hb.histogram_test()
+    hb.histogram_test()
     # filter.filter_average_test()
     # filter.filter_weight_avg_test()
     # filter.filter_image_mid_value_test()
