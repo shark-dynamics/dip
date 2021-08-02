@@ -110,3 +110,10 @@
 #### 19.理想低通滤波
 
 ![](intros/idea_low.png)
+
+#### 20.巴特沃斯低通滤波
+
+![](intros/butter_worth_low.png)
+
+#### 21.高斯低通滤波
+![](intros/gaussian_low.png)
