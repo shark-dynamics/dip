@@ -76,3 +76,37 @@
 > 修改前后的直方图
 
 ![](intros/hist_intro.png)
+
+#### 11.邻域平均
+
+![](intros/filter_mean.png)
+
+#### 12.加权平均
+
+![](intros/filter_weight_mean.png)
+
+#### 13.中值滤波
+
+![](intros/filter_mid_value.png)
+
+#### 14.最大最小值滤波
+
+![](intros/filter_max_min.png)
+
+#### 15.中点滤波
+
+![](intros/filter_mid_point.png)
+
+#### 16.Sobel算子
+![](intros/filter_sobel.png)
+
+#### 17.拉普拉斯算子
+
+![](intros/filter_laplace.png)
+
+#### 18.进入FFT
+![](intros/fft_start.png)
+
+#### 19.理想低通滤波
+
+![](intros/idea_low.png)

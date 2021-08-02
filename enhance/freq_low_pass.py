@@ -123,7 +123,7 @@ def fft_idea_low_pass_test():
     center_fft_spec = np.log(np.abs(center_fft))
     plt.subplot(244)
     plt.imshow(center_fft_spec, cmap='gray')
-    plt.title('mask space img')
+    plt.title('img freq')
     plt.axis('off')
 
     mask5 = low_pass(img.shape, 5)
