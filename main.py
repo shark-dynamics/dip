@@ -15,8 +15,8 @@ import enhance.border as border
 
 if __name__ == '__main__':
 
-    noise.noise_test()
-    # se.add_meat_test()
+    # noise.noise_test()
+    se.add_meat_test()
     # gm.inverse_test()
     # gm.segment_enhance_test()
     # gm.log_enhance_test()
