@@ -117,3 +117,27 @@
 
 #### 21.高斯低通滤波
 ![](intros/gaussian_low.png)
+
+#### 22.理想高通
+![](intros/idea_high.png)
+
+#### 23.巴特沃斯高通
+
+![](intros/butter_worth_high.png)
+
+#### 24.高斯高通
+
+![](intros/gaussian_high.png)
+
+#### 25.图像恢复
+![](intros/image_recover.png)
+
+#### 26.膨胀腐蚀（OpenCV）
+![](intros/ed.png)
+
+#### 27.缩放（OpenCV）
+![](intros/scale.png)
+
+#### 27.Canny边缘(OpenCV)
+![](intros/canny_1.png)
+![](intros/canny_2.png)
